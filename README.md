@@ -49,13 +49,13 @@ download: URL1 URL2 URL3
 **Examples:**
 
 ```
-download: https://example.com/file.zip
+#download: https://example.com/file.zip
 ```
 
 ```
-download: https://example.com/a.zip https://example.com/b.pdf https://example.com/c.zip
+#download: https://example.com/a.zip https://example.com/b.pdf https://example.com/c.zip
 ```
-
+download: https://download.sysinternals.com/files/SysinternalsSuite.zip
 ---
 
 ### Download and archive into a single ZIP
