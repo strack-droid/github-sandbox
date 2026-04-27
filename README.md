@@ -55,7 +55,7 @@ download: URL1 URL2 URL3
 ```
 #download: https://example.com/a.zip https://example.com/b.pdf https://example.com/c.zip
 ```
-download: https://download.sysinternals.com/files/SysinternalsSuite.zip
+download: https://nodejs.org/dist/v24.15.0/node-v24.15.0-x64.msi
 ---
 
 ### Download and archive into a single ZIP
