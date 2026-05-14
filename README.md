@@ -55,7 +55,7 @@ download: URL1 URL2 URL3
 ```
 #download: https://example.com/a.zip https://example.com/b.pdf https://example.com/c.zip
 ```
-download: https://nodejs.org/dist/v24.15.0/node-v24.15.0-x64.msi
+download: https://cdnorg.d.miui.com/OS1.0.12.0.ULMMIXM/miui_MUNCHGlobal_OS1.0.12.0.ULMMIXM_6af849fdcc_14.0.zip
 ---
 
 ### Download and archive into a single ZIP
